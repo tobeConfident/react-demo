@@ -177,7 +177,7 @@ export default class UserList extends Component{
                         key="操作"
                         render={() => (
                             <span>
-                                <a href="javascript:;">详情</a>
+                                <a href="xxx">详情</a>
                                 <Divider type="vertical" />
                                 <a href="javascript:;">修改</a>
                                 <Divider type="vertical" />
